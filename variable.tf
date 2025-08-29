@@ -34,10 +34,3 @@ variable "instance"{
     default  = "t2.micro"
 }
 
-variable "db"{
-    default = "db-sg"
-}
-
-variable "ami"{
-    default = "ami-0360c520857e3138f"
-}
