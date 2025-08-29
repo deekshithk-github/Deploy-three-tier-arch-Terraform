@@ -1,9 +1,0 @@
-terraform-nodejs-3tier/
- ├── main.tf
- ├── variables.tf
- ├── outputs.tf
- ├── vpc.tf
- ├── ec2.tf
- ├── rds.tf
- ├── security.tf
- └── user_data.sh   (for bootstrapping Node.js app)
